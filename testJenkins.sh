@@ -1,6 +1,6 @@
 #! /bin/sh
 
-export outfile=/Users/ltaylor/jenkins-test.out
+export outfile=/Users/ltaylor/jenkins-test2.out
 
 echo "my first Jenkins Job" > $outfile
 
