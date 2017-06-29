@@ -8,7 +8,7 @@ alist.add("yes");
 alist.add("no");
 
 String[] nums = {"one","two","three"};
-int[] j = {2,300,777,231};
+int[] j = {2,300,777,231,10,39};
 for(String s:nums){ 
 System.out.println(s);
 }
