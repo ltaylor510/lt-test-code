@@ -2,7 +2,8 @@
 
 export outfile=/Users/ltaylor/jenkins-test2.out
 
-echo "my first Jenkins Job" > $outfile
+echo "this is my first Jenkins Job" > $outfile
+echo "lets append" >> $outfile
 
 if [ -f "$outfile" ]
 then
