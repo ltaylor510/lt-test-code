@@ -2,13 +2,13 @@ import java.util.*;
 
 public class jArray {
 public static void main(String args[]){
-
+peeeeeee
 ArrayList<String> alist = new ArrayList<String>();
 alist.add("yes");
 alist.add("no");
 
 String[] nums = {"one","two","three"};
-int[] j = {2,300,777,231,10,39};
+int[] j = {9992,12300,300,777,231,10,39};
 for(String s:nums){ 
 System.out.println(s);
 }
